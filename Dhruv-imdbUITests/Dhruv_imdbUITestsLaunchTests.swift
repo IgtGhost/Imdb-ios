@@ -1,9 +1,4 @@
 //
-//  Dhruv_imdbUITestsLaunchTests.swift
-//  Dhruv-imdbUITests
-//
-//  Created by atef fawaz on 05/02/2025.
-//
 
 import XCTest
 

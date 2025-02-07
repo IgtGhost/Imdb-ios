@@ -1,10 +1,3 @@
-//
-//  Dhruv_imdbTests.swift
-//  Dhruv-imdbTests
-//
-//  Created by atef fawaz on 05/02/2025.
-//
-
 import Testing
 @testable import Dhruv_imdb
 

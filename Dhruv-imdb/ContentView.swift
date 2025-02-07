@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  Dhruv-imdb
-//
-//  Created by atef fawaz on 05/02/2025.
-//
 
 import SwiftUI
 
